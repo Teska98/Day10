@@ -4,7 +4,7 @@
         name: "Rex",
         legs: 4,
         friends: ["Timmy", "Flufy"]
- }
+ };
  function (myObj){
    return myObj;
  }
