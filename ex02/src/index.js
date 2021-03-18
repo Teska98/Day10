@@ -4,7 +4,7 @@
         shirt: "Nike",
         shoes: "Converse"
  };
- function (myObj){
+ function myFunction(myObj){
    var hatValue = myClothes.hat;
    var shirtValue = myClothes.shirt;
    var shoesValue = myClothes.shoes;
