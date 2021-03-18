@@ -3,13 +3,12 @@ function getUsername(email){
   
   //Only chane code below this line
   var username = {
-    getUsername("user1@mail.com") =  "user1",
-    getUsername("user2@mail.com") =  "user2",
-    getUsername("user3@mail.com") =  "user3",
-    getUsername("user4@mail.com") =  "user4",
-    getUsername("user5@mail.com") =  "user5",
-    getUsername("user6@mail.com") =  "user6",
-    getUsername("") =  "undefined",
+    "user1@mail.com" =  "user1",
+    "user2@mail.com" =  "user2",
+    "user3@mail.com" =  "user3",
+    "user4@mail.com" =  "user4",
+    "user5@mail.com" =  "user5",
+    "user6@mail.com" =  "user6"
   }
    // Only change code above this line
   
