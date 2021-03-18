@@ -13,5 +13,5 @@ function myFunction("roar", "roar-roar"){
    return lion;
 // Only change code above this line
  }
-myFunction("roar", "roar-roar");
+console.log(myFunction("roar", "roar-roar"));
 module.exports = myFunction;
