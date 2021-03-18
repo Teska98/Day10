@@ -5,7 +5,7 @@
         legs: 4,
         friends: ["Timmy", "Flufy"]
  };
- function (myObj){
+ function myFunction(myObj){
    return myObj;
  }
 // Only change code above this line
