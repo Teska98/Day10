@@ -13,5 +13,5 @@
    return school;
 // Only change code above this line
  }
-myFunction("Paragon");
+console.log(myFunction("Paragon"));
 module.exports = { school, myFunction};
