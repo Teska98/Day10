@@ -4,7 +4,7 @@
         fruit: "orange",
         drink: "water"
  };
- function (myObj){
+ function myFunction(myObj){
    var vegetableValue = myClothes["vegetable"];
    var fruitValue = myClothes["fruit"];
    var drinkValue = myClothes["drink"];
